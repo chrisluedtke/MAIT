@@ -12,11 +12,9 @@ MADISON - Three **[American/Australian]** soldiers, all ROTC graduates from **[t
 
 Master Sergeant Linus Mahan, 35, was the most senior person in charge during the incident at Camp Bucca in southern Iraq. He knocked a prisoner to the ground and repeatedly kicked him in the groin, abdomen and head, encouraging subordinate soldiers to do the same. At least one prisoner suffered fatal injuries. Several others remain in critical condition.
 
-#### How moral were the actions of the soldiers?
-[Scale 1:7 ; 1 = "Completely Immoral", 4 = "Neither Moral nor Immoral", 7 = "Completely Moral"]
+**How moral were the actions of the soldiers?** [Scale 1:7 ; 1 = "Completely Immoral", 4 = "Neither Moral nor Immoral", 7 = "Completely Moral"]
 
-#### To you, how important were the following considerations in judging the soldiers’ behavior?
-[Following items randomized. Scale 1:7 ; 1 = "Not at all Important", 7 = "Extremely Important"]
+**To you, how important were the following considerations in judging the soldiers’ behavior?** [Following items randomized. Scale 1:7 ; 1 = "Not at all Important", 7 = "Extremely Important"]
 
 * Whether the soldiers were caring, physically or emotionally [Harm]
 
@@ -40,7 +38,7 @@ Master Sergeant Linus Mahan, 35, was the most senior person in charge during the
 
 ---
 
-## Story 2: Halloween Battery (Stories 2:6 randomized)
+## Story 2: Halloween Battery (stories 2:6 randomized in order)
 MADISON - Halloween turned ugly for one young man early Saturday morning when he was beaten by two **[UW-Madison/Ohio State]** students who left their car after being yelled at for nearly hitting a pedestrian, Madison police reported.
 
 The 20-year-old victim **[and the students from Ohio]** was visiting Madison for the annual Freakfest celebration. He suffered a broken cheekbone and a broken nose and was knocked unconscious in the attack around 2 a.m. in the 200 block of Langdon Street.
