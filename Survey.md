@@ -6,35 +6,35 @@ We are interested in what you think about the morality of their actions. Moralit
 If you have any questions, please ask your experimenter now. Otherwise, enter your participant number below, and click "next" to begin the first article.
 
 ## Story 1: Prisoners of War
-MADISON - Three [American/Australian] soldiers, all ROTC graduates from [the University of Wisconsin/Royal Military College of Australia], have been found responsible for viciously beating and harassing Iraqi prisoners of war, some of whom were already injured, a **[US/Australian]** military spokesman said last night.
+MADISON - Three **[American/Australian]** soldiers, all ROTC graduates from **[the University of Wisconsin/Royal Military College of Australia]**, have been found responsible for viciously beating and harassing Iraqi prisoners of war, some of whom were already injured, a **[US/Australian]** military spokesman said last night.
 
 Master Sergeant Linus Mahan, 35, was the most senior person in charge during the incident at Camp Bucca in southern Iraq. He knocked a prisoner to the ground and repeatedly kicked him in the groin, abdomen and head, encouraging subordinate soldiers to do the same. At least one prisoner suffered fatal injuries. Several others remain in critical condition.
 
-### How moral were the actions of the soldiers?
+#### How moral were the actions of the soldiers?
 [Scale 1:7 ; 1 = "Completely Immoral", 4 = "Neither Moral nor Immoral", 7 = "Completely Moral"]
 
-### To you, how important were the following considerations in judging the soldiers’ behavior?
+#### To you, how important were the following considerations in judging the soldiers’ behavior?
 [Following items randomized. Scale 1:7 ; 1 = "Not at all Important", 7 = "Extremely Important"]
 
-[Harm] Whether the soldiers were caring, physically or emotionally
+* Whether the soldiers were caring, physically or emotionally [Harm]
 
-[Harm] Whether the soldiers were harmful, physically or emotionally
+* Whether the soldiers were harmful, physically or emotionally [Harm]
 
-[Fair] Whether the soldiers were fair
+* Whether the soldiers were fair [Fairness]
 
-[Fair] Whether the soldiers denied somebody’s rights
+* Whether the soldiers denied somebody’s rights [Fairness]
 
-[Loyalty] Whether the soldiers were loyal to their group
+* Whether the soldiers were loyal to their group [Loyalty]
 
-[Loyalty] Whether the soldiers betrayed their group
+* Whether the soldiers betrayed their group [Loyalty]
 
-[Autority] Whether the soldiers fulfilled the duties of their role
+* Whether the soldiers fulfilled the duties of their role [Autority]
 
-[Autority] Whether the soldiers did not fulfill the duties of their role
+* Whether the soldiers did not fulfill the duties of their role [Autority]
 
-[Purity] Whether the soldiers acted in a pure or decent way
+* Whether the soldiers acted in a pure or decent way [Purity]
 
-[Purity] Whether the soldiers acted in a disgusting way
+* Whether the soldiers acted in a disgusting way [Purity]
 
 ---
 
