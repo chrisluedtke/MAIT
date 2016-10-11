@@ -36,7 +36,9 @@ Master Sergeant Linus Mahan, 35, was the most senior person in charge during the
 
 [Purity] Whether the soldiers acted in a disgusting way
 
-# Story 2: Halloween Battery (Stories 2:6 randomized)
+---
+
+## Story 2: Halloween Battery (Stories 2:6 randomized)
 MADISON - Halloween turned ugly for one young man early Saturday morning when he was beaten by two **[UW-Madison/Ohio State]** students who left their car after being yelled at for nearly hitting a pedestrian, Madison police reported.
 
 The 20-year-old victim **[and the students from Ohio]** was visiting Madison for the annual Freakfest celebration. He suffered a broken cheekbone and a broken nose and was knocked unconscious in the attack around 2 a.m. in the 200 block of Langdon Street.
@@ -49,7 +51,7 @@ The driver and one passenger then got out and attacked a bystander, who told pol
 
 The two attackers then got back into their silver-colored Nissan four-door car and drove away.
 
-# Story 3: Spring Break Stabbing
+## Story 3: Spring Break Stabbing
 PANAMA CITY BEACH - Police are on the lookout for a man from **[Wisconsin/Michigan]** for stabbing a Panama City native during a bar fight late Friday night.
 
 The assailant, who appeared to be about 20 years old, was wearing a **[UW-Madison/University of Michigan]** sweatshirt - likely visiting Panama City Beach during the university’s spring break.
@@ -58,7 +60,7 @@ According to police spokesman, Sam Louis, the fight began when the assailant pun
 
 The victim was taken to Samaritan Medical Center with a non-life threatening injury.
 
-# Story 4: Campus Tour Lie
+## Story 4: Campus Tour Lie
 During a University of **[Wisconsin/Illinois]** tour for college-bound high school students, the guide - a **[Wisconsin/Illinois]** student himself - was chatting with a prospective student. The high school senior mentioned that he heard the University of **[Wisconsin/Illinois]** had the highest rate of post-graduation employment in the Big 10. The tour guide knew this claim was false, but did not correct the prospective student. Instead, the guide confirmed that not only do **[Wisconsin/Illinois]** graduates find more jobs, but he added that those jobs were also better paying. The high schooler previously had his heart set on attending the University of Michigan, but changed his preference to the University of **[Wisconsin/Illinois]** following this conversation.
 
 # Story 5: Basketball Flagrant Foul
@@ -66,12 +68,12 @@ A tense basketball game between **[the University of Wisconsin/Indiana Universit
 
 The ball was successfully inbounded by Michigan State. Immediately, the **[Badgers/Hoosiers]** point guard slammed his fist onto the player’s wrist, causing him to drop the ball to hold his arm in pain. A foul was called, but the damage had already been done. The Michigan State player suffered a fractured wrist, and he would be out for the next 5 weeks due to the injury.
 
-# Story 6: Rhesus Neglect
+## Story 6: Rhesus Neglect
 A **[University of Wisconsin/Ohio State]** undergraduate was working as a research assistant in an animal lab on campus. On Monday morning, he showed up to work to find that 3 rhesus monkeys had died over the weekend, apparently due to neglect. Everyone in the lab was very upset, especially the lab supervisor who was supposed to make sure this would never happen. As required when a research animal dies, somebody would have to submit an incident report to the **[University of Wisconsin/Ohio State]** Animal Research Board. If they told the truth, the lab would probably lose funding due to their negligence.
 
 The supervisor decided to ask the undergraduate assistant to write a fraudulent report. He instructed the student to claim that the animals had been fed and cared for like normal, even though the student knew that was not true. The undergraduate student accepted the instructions and completed the false report as requested.
 
-# Relatability of Perpetrator
+## Relatability of Perpetrator
 Congratulations! You have completed the largest part of the survey. In the next three pages, you will read a few questions about the stories you have read, then some general questions about you.
  
 Before answering each of the following statements, try to remember the details of the story and how you felt while reading it.
@@ -89,7 +91,7 @@ How likely is it that you or a friend would have done what the student on spring
 
 How likely is it that you or a friend would have done what the tour guide did?
 
-# Glorification and Attachment Items
+## Glorification and Attachment Items
 In this section, please indicate whether you agree or disagree with the following statements by using the scale.
 
 There are too many palm trees on the UW-Madison campus.
@@ -124,7 +126,7 @@ It is important to me to view myself as a Badger.
 
 It is disloyal for UW-Madison students to criticize the student body.
 
-# Demographics
+## Demographics
 This is the last page! Please provide a little information about yourself.
 
 Political Affiliation [scored 1:7 ; 1 Strongly Liberal, 2	Liberal, 3	Somewhat Liberal, 4	Neither, 5 Somewhat Conservative, 6	Conservative, 7	Strongly Conservative, I do not want to report my political affiliation]
