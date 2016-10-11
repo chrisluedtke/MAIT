@@ -5,6 +5,8 @@ We are interested in what you think about the morality of their actions. Moralit
  
 If you have any questions, please ask your experimenter now. Otherwise, enter your participant number below, and click "next" to begin the first article.
 
+---
+
 ## Story 1: Prisoners of War
 MADISON - Three **[American/Australian]** soldiers, all ROTC graduates from **[the University of Wisconsin/Royal Military College of Australia]**, have been found responsible for viciously beating and harassing Iraqi prisoners of war, some of whom were already injured, a **[US/Australian]** military spokesman said last night.
 
