@@ -17,12 +17,21 @@ Master Sergeant Linus Mahan, 35, was the most senior person in charge during the
 [Following items randomized. Scale 1:7 ; 1 = "Not at all Important", 7 = "Extremely Important"]
 
 [Harm] Whether the soldiers were caring, physically or emotionally
+
 [Harm] Whether the soldiers were harmful, physically or emotionally
+
 [Fair] Whether the soldiers were fair
+
 [Fair] Whether the soldiers denied somebody’s rights
+
 [Loyalty] Whether the soldiers were loyal to their group
+
 [Loyalty] Whether the soldiers betrayed their group
+
 [Autority] Whether the soldiers fulfilled the duties of their role
+
 [Autority] Whether the soldiers did not fulfill the duties of their role
+
 [Purity] Whether the soldiers acted in a pure or decent way
+
 [Purity] Whether the soldiers acted in a disgusting way
