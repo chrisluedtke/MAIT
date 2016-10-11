@@ -69,7 +69,9 @@ The victim was taken to Samaritan Medical Center with a non-life threatening inj
 ## Story 4: Campus Tour Lie
 During a University of **[Wisconsin/Illinois]** tour for college-bound high school students, the guide - a **[Wisconsin/Illinois]** student himself - was chatting with a prospective student. The high school senior mentioned that he heard the University of **[Wisconsin/Illinois]** had the highest rate of post-graduation employment in the Big 10. The tour guide knew this claim was false, but did not correct the prospective student. Instead, the guide confirmed that not only do **[Wisconsin/Illinois]** graduates find more jobs, but he added that those jobs were also better paying. The high schooler previously had his heart set on attending the University of Michigan, but changed his preference to the University of **[Wisconsin/Illinois]** following this conversation.
 
-# Story 5: Basketball Flagrant Foul
+---
+
+## Story 5: Basketball Flagrant Foul
 A tense basketball game between **[the University of Wisconsin/Indiana University]** and Michigan State was nearing its final moments. The **[Wisconsin Badgers/Indiana Hoosiers]** were losing by 13 when the coach called “timeout” with forty seconds remaining. He was furious. Losing this game would also lose them their spot as a Top 25 ranked team. It was almost impossible to win at this point, but he instructed his point guard to intentionally foul the opposing team as soon as possible. This would stop the clock and give the Indiana Hoosiers another chance to gain possession.
 
 The ball was successfully inbounded by Michigan State. Immediately, the **[Badgers/Hoosiers]** point guard slammed his fist onto the player’s wrist, causing him to drop the ball to hold his arm in pain. A foul was called, but the damage had already been done. The Michigan State player suffered a fractured wrist, and he would be out for the next 5 weeks due to the injury.
