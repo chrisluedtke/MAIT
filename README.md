@@ -1,3 +1,5 @@
+# Moral Appraisals of Inter-group Transgressions
+
 ## Introduction
 Social Identity Theory states that the concept of ‘self’ derives in part from one’s perceived affiliations with and valuations of their social groups (Tajfel & Turner, 1979). When subscribing to social groups, members associate the group’s reputation with their own, and behaviors of the group are perceived to reflect upon its individual members. Additionally, group members tend to conceive of their group more positively than outsiders do, and they selectively emphasize features of the group’s identity to benefit their own self-conception (Tajfel, 1982). In order to preserve a positive social identity, group members have been shown to engage in a number of biased cognitive evasions. This self-serving motivation results in fundamentally skewed perceptions and evaluations of controversial evidence (Kunda, 1987).
 
